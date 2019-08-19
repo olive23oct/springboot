@@ -7,7 +7,6 @@
 *.sw?
 *~
 .#*
-.*.md.html
 .DS_Store
 .classpath
 .factorypath
@@ -38,3 +37,4 @@ transaction-logs
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+.properties
